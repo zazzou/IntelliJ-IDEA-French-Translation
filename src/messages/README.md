@@ -1,37 +1,37 @@
 Progression de la traduction
 ============================
 
-- ActionsBundle.properties - Non commencé - 0%
-- AnalysisScopeBundle.properties - Non commencé - 0%
-- ApplicationBundle.properties - Non commencé - 0%
-- CodeEditorBundle.properties - Non commencé - 0%
-- CodeInsightBundle.properties - Non commencé - 0%
-- CommonBundle.properties - Non commencé - 0%
-- DaemonBundle.properties - Non commencé - 0%
-- DiagnosticBundle.properties - Non commencé - 0%
-- DiffBundle.properties - Non commencé - 0%
-- DomBundle.properties - Non commencé - 0%
-- DupLocatorBundle.properties - Non commencé - 0%
-- EditorBundle.properties - Non commencé - 0%
-- ExecutionBundle.properties - Non commencé - 0%
-- FeatureStatisticsBundle.properties - Non commencé - 0%
-- FileTypesBundle.properties - Non commencé - 0%
-- FindBundle.properties - Non commencé - 0%
-- GraphBundle.properties - Non commencé - 0%
-- IdeBundle.properties - Non commencé - 0%
-- InspectionsBundle.properties - Non commencé - 0%
-- KeyMapBundle.properties - Non commencé - 0%
-- LangBundle.properties - Non commencé - 0%
-- LicenseCommonBundle.properties - Non commencé - 0%
-- OptionsBundle.properties - Non commencé - 0%
-- PsiBundle.properties - Non commencé - 0%
-- RefactoringBundle.properties - Non commencé - 0%
-- SMTestsRunnerBundle.properties - Non commencé - 0%
-- StatisticsBundle.properties - Non commencé - 0%
-- ToolsBundle.properties - Non commencé - 0%
-- UIBundle.properties - Non commencé - 0%
-- UsageView.properties - Non commencé - 0%
-- VcsBundle.properties - Non commencé - 0%
-- VfsBundle.properties - Non commencé - 0%
-- XDebuggerBundle.properties - Non commencé - 0%
-- XmlBundle.properties - Non commencé - 0%
+- **ActionsBundle.properties** - Non commencé - 0%
+- **AnalysisScopeBundle.properties** - Non commencé - 0%
+- **ApplicationBundle.properties** - Non commencé - 0%
+- **CodeEditorBundle.properties** - Non commencé - 0%
+- **CodeInsightBundle.properties** - Non commencé - 0%
+- **CommonBundle.properties** - Non commencé - 0%
+- **DaemonBundle.properties** - Non commencé - 0%
+- **DiagnosticBundle.properties** - Non commencé - 0%
+- **DiffBundle.properties** - Non commencé - 0%
+- **DomBundle.properties** - Non commencé - 0%
+- **DupLocatorBundle.properties** - Non commencé - 0%
+- **EditorBundle.properties** - Non commencé - 0%
+- **ExecutionBundle.properties** - Non commencé - 0%
+- **FeatureStatisticsBundle.properties** - Non commencé - 0%
+- **FileTypesBundle.properties** - Non commencé - 0%
+- **FindBundle.properties** - Non commencé - 0%
+- **GraphBundle.properties** - En cours - 60% - 01-03-2014
+- **IdeBundle.properties** - Non commencé - 0%
+- **InspectionsBundle.properties** - Non commencé - 0%
+- **KeyMapBundle.properties** - Non commencé - 0%
+- **LangBundle.properties** - Non commencé - 0%
+- **LicenseCommonBundle.properties** - Terminé - 100% - 01-03-2014
+- **OptionsBundle.properties** - Non commencé - 0%
+- **PsiBundle.properties** - Non commencé - 0%
+- **RefactoringBundle.properties** - Non commencé - 0%
+- **SMTestsRunnerBundle.properties** - Non commencé - 0%
+- **StatisticsBundle.properties** - Non commencé - 0%
+- **ToolsBundle.properties** - Non commencé - 0%
+- **UIBundle.properties** - Non commencé - 0%
+- **UsageView.properties** - Non commencé - 0%
+- **VcsBundle.properties** - Non commencé - 0%
+- **VfsBundle.properties** - Terminé - 100% - 01-13-2014
+- **XDebuggerBundle.properties** - Non commencé - 0%
+- **XmlBundle.properties** - Non commencé - 0%
