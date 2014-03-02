@@ -1,10 +1,12 @@
 IntelliJ-IDEA-French-Translation
 ================================
 
-IntelliJ IDEA French Translation - IIFT - est un projet de traduction de la plateforme IntelliJ IDEA de JetBrains (http://www.jetbrains.com/idea/) en français.
+IntelliJ IDEA French Translation - IIFT - est un projet de traduction de la plateforme IntelliJ IDEA de JetBrains (http://www.j(tbrains.com/idea/) en français.
 
 Avancement
 ----------
+
+Vous pouvez trouver les fichiers originaux ici : [IntelliJ Community Repository](https://github.com/JetBrains/intellij-community/tree/41a88a4b642b6144b203a1037edc32461e55e847/platform/platform-resources-en)
 
 Afin de garder une trace claire de l'avancement, merci de tenir à jour les fichiers README.md présent dans les différents dossiers.
 
