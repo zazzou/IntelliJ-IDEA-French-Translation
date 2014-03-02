@@ -1,12 +1,12 @@
 Progression de la traduction
 ============================
 
-- **ActionsBundle.properties** - Non commencé - 0%
+- **ActionsBundle.properties** - En cours - 10% - 02-03-2014
 - **AnalysisScopeBundle.properties** - Non commencé - 0%
 - **ApplicationBundle.properties** - Non commencé - 0%
-- **CodeEditorBundle.properties** - Non commencé - 0%
+- **CodeEditorBundle.properties** - Terminé - 100% - 02-03-2014
 - **CodeInsightBundle.properties** - Non commencé - 0%
-- **CommonBundle.properties** - Non commencé - 0%
+- **CommonBundle.properties** - Terminé - 0% - 02-03-2014
 - **DaemonBundle.properties** - Non commencé - 0%
 - **DiagnosticBundle.properties** - Non commencé - 0%
 - **DiffBundle.properties** - Non commencé - 0%
