@@ -1,7 +1,19 @@
 IntelliJ-IDEA-French-Translation
 ================================
 
-IntelliJ IDEA French Translation - IIFT - est un projet de traduction de la plateforme IntelliJ IDEA de JetBrains (http://www.j(tbrains.com/idea/) en français.
+IntelliJ IDEA French Translation - IIFT - est un projet de traduction de la plateforme IntelliJ IDEA de JetBrains (http://www.jtbrains.com/idea/) en français.
+
+Traduction
+----------
+
+Actuellement, nous effectuons une première traduction. Il se peut donc que celle-ci contienne des fautes de traduction ou d'orthographe. Si vous en remarquez une, merci de la signaler ou de la corriger, afin d'avoir la meilleure traduction possible.
+
+Notez également que les traductions doivent être effectuées avec des caractères ASCII. Pour les caractères autres, notamment les lettres accentuées, merci d'utiliser l'Unicode correspond sous forme \u + code du caractère (comme ci-dessous). Voici quelques caractères couramment utilisés :
+
+à : ``\u00E0``
+é : ``\u00E9``
+ê : ``\u00EA``
+è : ``\u00E8``
 
 Avancement
 ----------
