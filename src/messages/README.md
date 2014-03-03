@@ -33,5 +33,5 @@ Progression de la traduction
 - **UsageView.properties** - Non commencé - 0%
 - **VcsBundle.properties** - Non commencé - 0%
 - **VfsBundle.properties** - Terminé - 100% - 01-13-2014
-- **XDebuggerBundle.properties** - Non commencé - 0%
+- **XDebuggerBundle.properties** - En cours - 95% - 03-13-2014
 - **XmlBundle.properties** - Non commencé - 0%
